@@ -47,8 +47,8 @@ The cleaned dataset contains:
 -   Business-Rule Validation
 -   Data Reconciliation
 -   Pandas
--    NumPy
--    Analytical Problem Solving
+-   NumPy
+-   Analytical Problem Solving
 
 ## Project Outcome
 The project successfully converted a presentation-oriented retail report into a reliable analytical dataset without compromising the underlying sales information.
